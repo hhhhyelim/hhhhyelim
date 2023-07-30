@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&text=hhhhyelim&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,14,18,20,22,27,30&height=270&fontColor=FFFFFF&text=hhhhyelim&fontSize=80&reveral=true)
 
 
 <div align="center">
