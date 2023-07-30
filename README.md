@@ -1,8 +1,6 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,14,18,20,22,27,30&height=270&fontColor=FFFFFF&text=hhhhyelim&fontSize=80&reveral=true)
-
-
 <div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,14,18,20,22,27,30&height=270&fontColor=FFFFFF&text=🧸hhhhyelim's%20Github🧸&fontSize=50&reveral=true)
  
   <strong><h3>⚒️ Tech Stack ⚒️</h3></strong>
   <img src="https://img.shields.io/badge/C-00599C.svg?style=flat&logo=c&logoColor=white"/>
